@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+    <title>YOUR NAME HERE</title>
+    <meta charset="utf-8" />
+	  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+	  <!-- link the webpage's stylesheet -->
+	  <link rel="stylesheet" href="/style.css" />
+
+	  <!-- link the webpage's JavaScript file -->
+	  <script src="/script.js" defer></script>
+
+  </head>
+  <body>
+
+    <div id="title">
+      <p id="athr"><strong>ABOUT THE AUTHOR</strong></p>
+    </div>
+  
+     <nav> 
+      <ul id="nav">
+        <li class="nav_bar"> 
+          <a href="index.html">Home</a>
+          </li>
+        <li class="nav_bar"> 
+          <a href="portfolio.html">About The Author </a>
+      </ul>
+      <ul id="nav2">
+          </li>
+        <li class="nav_bar"> 
+          <a href="synopsis.html">About The Book </a>
+           </li>
+          
+          <li class="nav_bar">
+            <a href="fanart.html">Contact</a>
+            </li>
+      </ul>
+     </nav>
+
+    
+    
+   
+    
+    
+ 
+    
+    
+      <div class="aboutme">
+         <p class="fade" id="aboutME">
+           <strong>
+           Maya Bose is a full-time student who enjoys reading classic mysteries such as Sherlock Holmes and those of Agatha Christie. She also loves creating art (such as the graphics used on this website), watching anime, and being part of a local robotics team. Of course, her main hobby is creative writing, and she has been writing <strong> "The Seventh Star" </strong> since eighth grade. </p>
+      </div>
+
+     <div class="aboutme">
+         <p class="fade" id="aboutME2" >
+          The inspiration for <strong> "The Seventh Star" </strong> came from reading other rich world-building fantasies filled with crime, such as Leigh Bardugo's <strong> "Six of Crows" </strong> and Mary Pearson's <strong> "Dance of Thieves" </strong>. <br>For a long time, Maya has been fascinated by the idea of unrelated characters who all observe the same event from different angles, with each lending a unique perspective to the story. She loves the concept of multiple subplots colliding and influencing each other, especially those with morally dark characters (a perfect example of these qualities can be found in the animated show, <strong> "Durarara" </strong>). <strong> <br> "The Seventh Star" </strong> was rewritten twice over three years, and shielded from curious eyes up until its completion. This book will be Maya Bose's debut, and the first of many.
+           </strong>
+         </p>
+     </div>
+    
+<img class="img" id="me" src="assets/blog.jpg">
+
+    <img id="ocean3" class="img" src="assets/ocean_website.webp">
+
+
+
+      </main>
+  
+  
+    </p>
+
+      
+      
+
+
+
+
+
+
+  
+
+
+
+
+
+   
+   
+      
+      
+      
+
+     
+
+    </section>
+  </body>
+</html>
