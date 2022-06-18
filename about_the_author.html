@@ -37,22 +37,25 @@
     
  
     
-    
-      <div class="aboutme">
+    <div class="flex-container">
+      <div class="flex-item" class="aboutme">
          <p class="fade" id="aboutME">
            <strong>
            Maya Bose is a full-time student who enjoys reading classic mysteries such as Sherlock Holmes and those of Agatha Christie. She also loves creating art (such as the graphics used on this website), watching anime, and being part of a local robotics team. Of course, her main hobby is creative writing, and she has been writing <strong> "The Seventh Star" </strong> since eighth grade. </p>
       </div>
+	    <img class="flex-item" class="img" id="me" src="blog (1).jpg">
+	  </div>
 
      <div class="aboutme">
          <p class="fade" id="aboutME2" >
-         You can contact Maya through her email: mayabose441@gmail.com <br> & twitter: @mayabose_ 
+         You can contact Maya through her email: mayabose441@gmail.com <br> twitter: @mayabose_ 
          </p>
      </div>
     
-<img class="img" id="me" src="blog (1).jpg">
+
 
     <img id="ocean3" class="img" src="oceanbackground.jpg">
+	  
 
 
 
@@ -61,6 +64,17 @@
   
     </p>
 <style>
+	
+	.flex-container {
+		display: flex;
+  flex-direction: row;
+  margin-top: 5%;
+}
+	.flex-item{
+		flex-basis: 100%;
+  margin: 1%;
+  text-align: center;
+}
 	#nav {
   overflow: hidden;
   position: absolute;
